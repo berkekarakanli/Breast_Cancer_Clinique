@@ -35,6 +35,7 @@ Model, veri ön işleme adımlarından sonra eğitim ve test aşamalarını tama
 Aşağıdaki adımları terminalde çalıştırın:
 
 ```bash
-git clone https://github.com/berkekarakanli/breast-cancer-ml.git
+git clone https://github.com/berkekarakanli/Breast_Cancer_Clinique.git
 pip install -r requirements.txt
 jupyter notebook breast-cancer-classification-with-logistic-regress.ipynb
+
